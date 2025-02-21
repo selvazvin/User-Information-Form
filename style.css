@@ -1,0 +1,16 @@
+/* *
+{
+    padding: 0px;
+    margin: 0px;
+} */
+body
+{
+    font-family: "Rubik", serif;
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;             
+        
+    }
+}
